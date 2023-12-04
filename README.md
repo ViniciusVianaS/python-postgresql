@@ -13,7 +13,7 @@
 !sudo -u postgres psql -U postgres -c "CREATE DATABASE teste;"
 ```
 
-Caso faça no Colab precisa desses comando para funcionar o código
+Caso faça no Colab precisa desses comandos para o código funcionar
 
 ## "pip install psycopg2" biblioteca
 
